@@ -1,0 +1,9 @@
+{
+	"name": "ADEpipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c93b6164-cca3-4afa-a803-5389794efae6",
+		"tenantId": "c61d5ace-8ac7-452d-af24-540a743bb45b"
+	}
+}

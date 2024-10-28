@@ -1,0 +1,17 @@
+{
+	"name": "multiplepipeline",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 1,
+				"startTime": "2024-10-27T14:49:00",
+				"timeZone": "GMT Standard Time"
+			}
+		}
+	}
+}
